@@ -8,7 +8,7 @@ using System.Web.Routing;
 namespace WebApplication1
 {
     public class RouteConfig
-    {
+    {//komentar
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
